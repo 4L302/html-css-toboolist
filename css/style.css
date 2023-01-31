@@ -1,42 +1,44 @@
-header{
+header {
     background-size: 30%;
     background-color: white;
-    
+
 }
 
-img{
+img {
     vertical-align: middle;
     ;
 }
 
-h1{
+h1 {
     display: inline-block;
     vertical-align: middle;
 }
 
-body{
-    background-color: rgba(230, 230, 230, 0.856);
+body {
+    background-color: rgba(230, 230, 230, 0.425);
     font-family: Arial, Helvetica, sans-serif;
 }
-main{
+
+main {
     background-color: white;
     width: 75%;
     margin: auto;
     margin-top: 50px;
 }
 
-.box1{ 
+.box1 {
     display: inline-block;
     width: 90px;
     height: 30px;
-    background-color:deepskyblue;
+    background-color: deepskyblue;
     color: white;
     text-align: center;
-    line-height: 30px;  
-    border-radius: 5%; 
-    font-size:15px;
+    line-height: 30px;
+    border-radius: 5%;
+    font-size: 15px;
 }
-.box2{
+
+.box2 {
     display: inline-block;
     width: 100px;
     height: 30px;
@@ -49,11 +51,11 @@ main{
     border: 1px solid grey;
 }
 
-h3{
+h3 {
     color: grey;
 }
 
-.cirv{
+.cirv {
     width: 20px;
     height: 20px;
     border-radius: 50%;
@@ -62,7 +64,8 @@ h3{
     text-align: center;
     display: inline-block;
 }
-.cirr{
+
+.cirr {
     width: 20px;
     height: 20px;
     border-radius: 50%;
@@ -72,3 +75,74 @@ h3{
     display: inline-block;
 }
 
+.boxblu {
+    display: inline-block;
+    width: 65px;
+    height: 20px;
+    border-radius: 15%;
+    background-color: deepskyblue;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+
+.boxviola {
+    display: inline-block;
+    width: 70px;
+    height: 20px;
+    border-radius: 20%;
+    background-color: rgba(159, 38, 207, 0.603);
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+
+.boxrosa {
+    display: inline-block;
+    width: 80px;
+    height: 20px;
+    border-radius: 20%;
+    background-color: #b84f8c;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+
+.boxarancio {
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    border-radius: 20%;
+    background-color: #ff7b00c5;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+
+.boxverde {
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    border-radius: 20%;
+    background-color: #1b8f1bab;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+
+.boxacqua {
+    display: inline-block;
+    width: 95px;
+    height: 20px;
+    border-radius: 20%;
+    background-color: rgb(0, 255, 136);
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: small;
+}
